@@ -6,11 +6,7 @@ title: All about Fencing!
 ## Introduction
 On this website  I will be telling you about fencing! :)
 
-
 ![gif](https://media.giphy.com/media/cQQaMooYaXgWbOoAsp/giphy.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
-
 
 ## History of Fencing
 The beggining of swordsmenship started near Medinat Habu in Luxor, Egypt. It was built by ramses III about 1190 b.c.e. as sword fighting continued, criminals started going to fencing schools and learning the art of fencing.The schools did not know who were criminals and who weren't. Fencing schools were outlawed, but they still flourished.
@@ -19,7 +15,7 @@ Modern fencing started in the late 15th century, when people started carrying sw
 
 ![_config.yml]({{ site.baseurl }}/images/fencing_history.jpg)
 
-## Rules/terms
+## Rules/Terms
 'Allez' means go. An asult is a friendly match where the scores may or may not be kept. If you get an advretisement you get a warning. If you get a red card you have gotten a serious warning.If you get a black card you have caused a serious offense. Corps-a-corps means your body touches your opponents body.En gaurde means to get into position. A hilt is the handle of the sword.The jury is 4 people who keep track of the scores and decide if the touch is valid or not. Lame is an electric jacket. Plastrom is an under arm gaurd.Point is the tip of the sword.Pret is ready. The mat must be 14 meters long and 1.5 meters wide. Fencers must be respectful to all fencers on the en garde line, they also must do this to the referee otherwise you lose 1 point. In foil if you miss the target area you lose 1 point. You get 3 minutes with each weapon you also take one minute breaks.In epee or foil there is 2 matches and 1 minute breaks after 8 points.Epee does not have a right of way. In sabre touches are scored by cutting and thrusting. Sabre has a right of way. The target zone is wiast up. Foil must wiegh under 500g. They must be thrusted to score points. Foil has a target zone of only the torso.
 
 
