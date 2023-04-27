@@ -24,7 +24,8 @@ Modern fencing started in the late 15th century, when people started carrying sw
 Some recomended schools for fencing are Premier fencing allience LLC, Fencing star academy, and georia fencing academy. All theese schools can be found in GA.To start a bout you get into en garde position. Then when the bout starts you advance to get closer to your opponent and ready for the lunge. When you lunge retreat so you can put some space between you and your opponent. Then parry with your opponent. To stay safe when fencing always wear protective gear when holding a weapon. Point your weapon down and away from others.Keep your mask on when weapons are raised. 
 
 
-## Equipment
+## Equipment 
+![_config.yml]({{ site.baseurl }}/images/fencing-equipment-list.png)
 Fencers require to wear a jacket,a mask,a pair of gloves, nickers, white stockings, flat soled shoes, a body cord and a weapon. To hold a sword use your index finger and thumb to firmly grab the handle.Next put your thumb inside the gaurd. Put your index finger and thumb on the same side of the handle.Put your two middle fingers on the handle to ensure your grip.Last push forward to check if your holding the sword right.The 3 types of swords are foil,epee, and sabre. When you hit with the foil you hit with the point ofthe sword. If your opponent scores you have 300 milliseconds to score. You can only hit your opponet on the l'ame or the conductive part of the fencing mask which cover the trunk of the body and parts of the neck. When you hit with an epee, like foil, you hit with the tip. Once your opponent scores you have 40 milliseconds to score. With the epee the whole body is the target. In sabre any part of the sword can hit. If your opponent scores you have 170 millisecods to score. Like epee, the sabre can hit any part of the body.
 
 
