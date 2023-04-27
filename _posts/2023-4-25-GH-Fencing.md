@@ -7,7 +7,7 @@ title: All about Fencing!
 On this website  I will be telling you about fencing! :)
 
 
-![_config.yml](https://tenor.com/bdtzK.gif)
+![gif](https://tenor.com/bdtzK.gif)
 
 ## History of Fencing
 The beggining of swordsmenship started near Medinat Habu in Luxor, Egypt. It was built by ramses III about 1190 b.c.e. as sword fighting continued, criminals started going to fencing schools and learning the art of fencing.The schools did not know who were criminals and who weren't. Fencing schools were outlawed, but they still flourished.
