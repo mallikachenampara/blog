@@ -7,7 +7,7 @@ title: All about Fencing!
 On this website  I will be telling you about fencing! :)
 
 
-![gif](https://tenor.com/bdtzK.gif)
+![gif](https://media.giphy.com/media/cQQaMooYaXgWbOoAsp/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
